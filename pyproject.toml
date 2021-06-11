@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "boardgames"
-version = "1.0.0"
+version = "1.0.1"
 description = "Board game utility functions"
 authors = ["bijij <josh@josh-is.gay>"]
 license = "Apache-2.0"

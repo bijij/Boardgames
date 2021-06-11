@@ -1,3 +1,5 @@
+from __future__ import annotations
+
 from typing import Generic, TypeVar, Union, overload
 
 from ._cell import Cell
